@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>الملف الشخصي</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- الصورة الشخصية -->
+        <div class="profile-pic">
+            <img src="your-photo.jpg" alt="Profile">
+        </div>
+
+        <!-- الاسم والمعلومات -->
+        <h1>اصادق الزاملي</h1>
+        <p class="job-title">مهندس تقنيات أمن سيبراني</p>
+
+        <!-- الروابط -->
+        <div class="links">
+            <a href="#" class="link-card">واتساب الأعمال</a>
+            <a href="#" class="link-card">تيليجرام للتواصل</a>
+            <a href="#" class="link-card">إنستغرام</a>
+            <a href="#" class="link-card soon">قناة تعليمية (قريباً)</a>
+        </div>
+
+        <footer>
+            SECURED & CODED BY YOU
+        </footer>
+    </div>
+</body>
+</html>
